@@ -1,4 +1,4 @@
-# Exercise 3
+# Exercise 1
 You can find the screenshot and the result of the exercise in their respective folder. 
 
 The .sh explains how the file have been ru in the terminal.
