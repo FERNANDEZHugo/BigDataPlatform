@@ -1,0 +1,26 @@
+Araucariaceae	1	9.0
+Betulaceae	4	20.0
+Bignoniaceae	1	15.0
+Cannabaceae	1	16.0
+Cornaceae	1	12.0
+Cupressaceae	1	20.0
+Ebenaceae	4	14.0
+Eucomiaceae	1	12.0
+Fabaceae	3	11.0
+Fagaceae	12	31.0
+Ginkgoaceae	5	33.0
+Juglandaceae	4	30.0
+Magnoliaceae	3	35.0
+Malvaceae	1	20.0
+Moraceae	2	13.0
+Oleaceae	1	30.0
+Paulowniaceae	1	20.0
+Pinaceae	9	30.0
+Platanaceae	19	45.0
+Sapindacaees	1	12.0
+Sapindaceae	5	30.0
+Simaroubaceae	1	35.0
+Taxaceae	2	13.0
+Taxodiaceae	8	35.0
+Ulmaceae	5	30.0
+borough of the oldest tree in Paris and its age	5	417
