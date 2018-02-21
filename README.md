@@ -1,2 +1,2 @@
 # BigDataPlatform
-Big Data algorithm project of Hugo FERNANDEZ and Ines KALLALA
+# Big Data algorithm project of Hugo FERNANDEZ, Steven TRAN and Ines KALLALA
